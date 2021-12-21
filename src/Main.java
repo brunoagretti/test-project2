@@ -19,7 +19,8 @@ public class Main {
 
 		}
 		System.out.println("La suma de las edades: " + sumaEdades);
-
+		
+		System.out.println("Finalizado.");
 	}
 
 }
